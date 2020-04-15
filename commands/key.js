@@ -1,7 +1,7 @@
 const KeyManager = require('../lib/KeyManager');
 const inquirer = require('inquirer');
 const colors = require('colors');
-const { isRequired } = require('../util/validation');
+const { isRequired } = require('../utils/validation');
 
 const key = {
   async set() {

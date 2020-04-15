@@ -11,3 +11,4 @@ TODO:
 1. rate drop notification (SMS or EMAIL)
 2. trends over 1 day, 7 day, 30 day
 3. This tool can also be used for tracking stocks
+4. Maybe the tool can store multiple API keys instead of just one
